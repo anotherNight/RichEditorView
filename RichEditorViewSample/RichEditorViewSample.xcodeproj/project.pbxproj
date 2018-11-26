@@ -218,7 +218,7 @@
 					39BBCFBE1AD0CC7A00A450D2 = {
 						CreatedOnToolsVersion = 6.2;
 						DevelopmentTeam = XATA46WWFJ;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1010;
 						TestTargetID = 39BBCFA91AD0CC7A00A450D2;
 					};
 				};
@@ -503,8 +503,7 @@
 				INFOPLIST_FILE = RichEditorViewSampleTests/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cjwirth.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RichEditorViewSample.app/RichEditorViewSample";
 			};
 			name = Debug;
@@ -517,8 +516,7 @@
 				INFOPLIST_FILE = RichEditorViewSampleTests/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cjwirth.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RichEditorViewSample.app/RichEditorViewSample";
 			};
 			name = Release;
